@@ -1,0 +1,125 @@
+﻿  TCP_Game_Server.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: 'defined'를 생성하는 매크로 확장에 정의되지 않은 동작이 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\YCPacket.h(82,2): warning C4091: 'static ': 변수를 선언하지 않으면 'PacketEvent' 왼쪽은 무시됩니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(14,1): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(17,1): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(51,13): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *'입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(51,13): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(51,27): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(51,27): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(53,14): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *const '입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(53,14): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *const ' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(53,28): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(53,28): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(88,13): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *'입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(88,13): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(88,27): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(88,27): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(90,14): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *const '입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(90,14): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *const ' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(90,28): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(90,28): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(128,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_db.h(132,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\champion_list.h(17,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\item_db.h(37,34): warning C4838: 'unsigned __int64'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\item_db.h(37,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(147,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(147,33): message : 이 진단은 컴파일러 생성 함수 'void battler_t::move(Vec2f,float,std::vector<int,std::allocator<int>> &,F1,F2)'에서 수행되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(185,28): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *'입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(185,28): message : 이 진단은 컴파일러 생성 함수 'void battler_t::run(float,std::vector<int,std::allocator<int>>,F1,F2,F3)'에서 수행되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(185,28): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(185,28): message : 이 진단은 컴파일러 생성 함수 'void battler_t::run(float,std::vector<int,std::allocator<int>>,F1,F2,F3)'에서 수행되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(186,28): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *'입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(186,28): message : 이 진단은 컴파일러 생성 함수 'void battler_t::run(float,std::vector<int,std::allocator<int>>,F1,F2,F3)'에서 수행되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(186,28): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(186,28): message : 이 진단은 컴파일러 생성 함수 'void battler_t::run(float,std::vector<int,std::allocator<int>>,F1,F2,F3)'에서 수행되었습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(118,16): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'champion_t *'입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(118,16): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('champion_t *' 형식)과(와) 충돌합니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\server.h(50,1): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(49,24): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(48): message : 클래스 템플릿 멤버 함수 'vec2<float> vec2<float>::operator *(double)'을(를) 컴파일하는 중입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(26): message : 컴파일되는 함수 템플릿 인스턴스화 'vec2<float> vec2<float>::operator *(double)'에 대한 참조를 확인하세요.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(16): message : 컴파일되는 클래스 템플릿 인스턴스화 'vec2<float>'에 대한 참조를 확인하세요.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(49,17): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(67,1): warning C4244: '*=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(66): message : 클래스 템플릿 멤버 함수 'vec2<float> &vec2<float>::operator *=(double)'을(를) 컴파일하는 중입니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(94): message : 컴파일되는 함수 템플릿 인스턴스화 'vec2<float> &vec2<float>::operator *=(double)'에 대한 참조를 확인하세요.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\include\Vec2.h(68,1): warning C4244: '*=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(197,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\battle.h(209,31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(2395,23): warning C4244: '인수': 'const wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(3022): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<const wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *,
+              _Alloc=std::allocator<char>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\xstring(3022): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<const wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const wchar_t *,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\YCDB.h(74): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+C:\Users\anyc1\Documents\GitHub\UE4_Server\TCP_Game_Server\YCDB.h(30): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+  YCFramework.lib(YCServer.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+YCFramework.lib(YCServer.obj) : warning LNK4099: 'YCFramework.pdb' PDB를 'YCFramework.lib(YCServer.obj)' 또는 'C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\YCFramework.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+YCFramework.lib(YCPacket.obj) : warning LNK4099: 'YCFramework.pdb' PDB를 'YCFramework.lib(YCPacket.obj)' 또는 'C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\YCFramework.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+YCFramework.lib(YCTime.obj) : warning LNK4099: 'YCFramework.pdb' PDB를 'YCFramework.lib(YCTime.obj)' 또는 'C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\YCFramework.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+YCFramework.lib(pch.obj) : warning LNK4099: 'YCFramework.pdb' PDB를 'YCFramework.lib(pch.obj)' 또는 'C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\YCFramework.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+YCFramework.lib(YCUser.obj) : warning LNK4099: 'YCFramework.pdb' PDB를 'YCFramework.lib(YCUser.obj)' 또는 'C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\YCFramework.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  TCP_Game_Server.vcxproj -> C:\Users\anyc1\Documents\GitHub\UE4_Server\x64\Debug\TCP_Game_Server.exe
